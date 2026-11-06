@@ -9,4 +9,6 @@
 	(lib (name "PTS810_SJM_250_SMTR_LFS") (type "KiCad") (uri "${KIPRJMOD}/Components/PTS810_SJM_250_SMTR_LFS/PTS810_SJM_250_SMTR_LFS.kicad_sym") (options "") (descr ""))
 	(lib (name "CVS-04TB") (type "KiCad") (uri "${KIPRJMOD}/Components/CVS_04TB/CVS-04TB.kicad_sym") (options "") (descr ""))
 	(lib (name "TPS7A2033PDBVR") (type "KiCad") (uri "${KIPRJMOD}/Components/TPS7A2033PDBVR/TPS7A2033PDBVR.kicad_sym") (options "") (descr ""))
+	(lib (name "SM03B-GHS-TB") (type "KiCad") (uri "${KIPRJMOD}/Components/SM03B_GHS_TB/SM03B-GHS-TB.kicad_sym") (options "") (descr ""))
+	(lib (name "BMI270") (type "KiCad") (uri "${KIPRJMOD}/Components/BMI270/BMI270.kicad_sym") (options "") (descr ""))
 )

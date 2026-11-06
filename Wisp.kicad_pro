@@ -275,7 +275,7 @@
   "erc": {
     "erc_exclusions": [
       [
-        "pin_to_pin|698500|977900|6818f6cf-a5a7-4c10-88e5-37316b75fe7b|bccbbee2-f753-44e5-ae0e-1ffb75ef7ea8|/85757beb-17c9-443c-9e18-64256ca2136a|/85757beb-17c9-443c-9e18-64256ca2136a|/85757beb-17c9-443c-9e18-64256ca2136a",
+        "pin_to_pin|698500|977900|6818f6cf-a5a7-4c10-88e5-37316b75fe7b|bccbbee2-f753-44e5-ae0e-1ffb75ef7ea8|||",
         ""
       ]
     ],
