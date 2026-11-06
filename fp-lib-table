@@ -11,4 +11,5 @@
 	(lib (name "wisp-daughter-board") (type "KiCad") (uri "C:/Users/Shaurya/Desktop/USC/TL/Wisp/wisp-daughter-board") (options "") (descr ""))
 	(lib (name "TPS7A2033PDBVR") (type "KiCad") (uri "${KIPRJMOD}/Components/TPS7A2033PDBVR") (options "") (descr ""))
 	(lib (name "BMI270") (type "KiCad") (uri "${KIPRJMOD}/Components/BMI270") (options "") (descr ""))
+	(lib (name "DF40C_30DP_0_4V_51_") (type "KiCad") (uri "${KIPRJMOD}/Components/DF40C_30DP_0_4V_51_") (options "") (descr ""))
 )
